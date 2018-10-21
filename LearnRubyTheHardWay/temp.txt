@@ -1,0 +1,5 @@
+ex35.rb:8: syntax error, unexpected tSTRING_BEG, expecting keyword_then or ';' or '\n'
+...clude? "0" || choice.include? "1"
+...                              ^
+ex35.rb:12: warning: else without rescue is useless
+ex35.rb:20: syntax error, unexpected keyword_end, expecting end-of-input
